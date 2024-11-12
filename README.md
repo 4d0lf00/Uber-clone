@@ -61,10 +61,12 @@ Para integrar Google Maps en la aplicación, realiza los siguientes pasos:
 Abre el archivo src/index.html.
 Busca la línea que contiene la clave de la API de Google Maps.
 Descomenta y reemplaza la clave de API con la tuya propia.
-Nota: Si no tienes una clave de API de Google Maps, puedes obtenerla aquí. 
+Nota: Si no tienes una clave de API de Google Maps, puedes obtenerla [aqui](https://developers.google.com/maps/get-started?hl=es-419)
+. 
 
 🚀 Ejecutar la aplicación
 Para ver y probar la aplicación localmente, usa el siguiente comando:
+
     ```bash 
     ionic lab
 
@@ -73,10 +75,8 @@ navegador, lo que te permitirá probar la funcionalidad de la aplicación
 en un entorno de desarrollo local.
 
 📱 Capturas de pantalla
-Agrega aquí capturas de pantalla o gifs demostrando cómo se ve la aplicación en funcionamiento.
 
-📄 Licencia
-Este proyecto está bajo la licencia MIT.
+
 
 ¡Contribuye! 🤝
 Si quieres contribuir al proyecto, siéntete libre de hacer un fork, mejorar el código o crear un pull request. ¡Toda ayuda es bienvenida!

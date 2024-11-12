@@ -73,12 +73,19 @@ Este comando abrirá la aplicación en tu
 navegador, lo que te permitirá probar la funcionalidad de la aplicación 
 en un entorno de desarrollo local.
 
-📱 Capturas de pantalla
+## 📱 **Capturas de pantalla**
+
 Aquí puedes ver algunas imágenes de la aplicación:
 
 ![Imagen de WhatsApp 1](https://github.com/4d0lf00/Uber-clone/blob/main/src/assets/WhatsApp%20Image%202024-11-12%20at%2012.04.32%20AM%20(1).jpeg)
+![Imagen de WhatsApp 2](https://github.com/4d0lf00/Uber-clone/blob/main/src/assets/WhatsApp%20Image%202024-11-12%20at%2012.04.32%20AM%20(2).jpeg)
+![Imagen de WhatsApp 3](https://github.com/4d0lf00/Uber-clone/blob/main/src/assets/WhatsApp%20Image%202024-11-12%20at%2012.04.32%20AM%20(3).jpeg)
+![Imagen de WhatsApp 4](https://github.com/4d0lf00/Uber-clone/blob/main/src/assets/WhatsApp%20Image%202024-11-12%20at%2012.04.32%20AM.jpeg)
+![Imagen de WhatsApp 5](https://github.com/4d0lf00/Uber-clone/blob/main/src/assets/WhatsApp%20Image%202024-11-12%20at%2012.04.33%20AM.jpeg)
 
 
+¡Contribuye! 🤝
+Si quieres contribuir al proyecto, siéntete libre de hacer un fork, mejorar el código o crear un pull request. ¡Toda ayuda es bienvenida!
 
 
 

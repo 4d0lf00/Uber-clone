@@ -13,8 +13,10 @@ Ionic Storage: Para almacenamiento local de datos.
 Sigue estos pasos para instalar y configurar el proyecto:
 Clona el repositorio:
 
+1. **Clona el repositorio:**
 
-git clone https://github.com/tu-usuario/uber-clone.git
+   ```bash
+   git clone https://github.com/tu-usuario/uber-clone.git
 
 Accede al directorio del proyecto:
 

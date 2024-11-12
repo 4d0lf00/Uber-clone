@@ -67,7 +67,6 @@ Nota: Si no tienes una clave de API de Google Maps, puedes obtenerla [aqui](http
 🚀 Ejecutar la aplicación
 Para ver y probar la aplicación localmente, usa el siguiente comando:
 
-    ```bash 
     ionic lab
 
 Este comando abrirá la aplicación en tu 
@@ -75,14 +74,18 @@ navegador, lo que te permitirá probar la funcionalidad de la aplicación
 en un entorno de desarrollo local.
 
 📱 Capturas de pantalla
+## 📱 **Capturas de pantalla**
+
+Aquí puedes ver algunas imágenes de la aplicación:
+
+![Captura](assets/WhatsApp%20Image%202024-11-12%20at%2012.04.32%20AM%20(1).jpeg)
+![Captura](assets/WhatsApp%20Image%202024-11-12%20at%2012.04.32%20AM%20(2).jpeg)
+![Captura](assets/WhatsApp%20Image%202024-11-12%20at%2012.04.32%20AM%20(3).jpeg)
+![Captura](assets/WhatsApp%20Image%202024-11-12%20at%2012.04.32%20AM.jpeg)
+![Captura](assets/WhatsApp%20Image%202024-11-12%20at%2012.04.33%20AM.jpeg)
+
 
 
 
 ¡Contribuye! 🤝
 Si quieres contribuir al proyecto, siéntete libre de hacer un fork, mejorar el código o crear un pull request. ¡Toda ayuda es bienvenida!
-
-
-
-
-   
-   

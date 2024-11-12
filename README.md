@@ -86,8 +86,3 @@ Aquí puedes ver algunas imágenes de la aplicación:
 
 ¡Contribuye! 🤝
 Si quieres contribuir al proyecto, siéntete libre de hacer un fork, mejorar el código o crear un pull request. ¡Toda ayuda es bienvenida!
-
-
-
-¡Contribuye! 🤝
-Si quieres contribuir al proyecto, siéntete libre de hacer un fork, mejorar el código o crear un pull request. ¡Toda ayuda es bienvenida!
